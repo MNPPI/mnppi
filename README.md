@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+## License
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You may use, copy, and share this code for non-commercial purposes, provided you give appropriate credit and do not modify the code. Commercial use and derivative works are prohibited. See the [LICENSE](LICENSE) file for details.
+
 <!--
 **MNPPI/mnppi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
